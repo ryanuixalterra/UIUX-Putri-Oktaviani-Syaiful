@@ -1,0 +1,8 @@
+1. user interface :
+Tampilan visualdari sebuah aplikasi digital guna untuk menampilkan informasi dan sebagai medium dari action yang dilakukan oleh user
+
+2. user experience :
+Pengalaman atau kesan seseorang ketika menggunakan atau berinteraksi dengan sebuah aplikasi
+
+3. UI/UX design :
+Sebuah proses pembuatan suatu tampilan apikasi atau website, dengan tujuan untuk memudahkan pengguna ketika menggunakan aplikasi atau website
